@@ -1,0 +1,23 @@
+body {
+  font-family: "Arial"
+}
+.main-img {
+  border: solid 4px #6D4002;
+  border-radius: 50%;
+  }
+
+  h1 {
+    background-color: #e2e2e2;
+    padding: 5px;
+  }
+
+  .section-title {
+    text-transform: uppercase;
+  }
+
+.center-icon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
